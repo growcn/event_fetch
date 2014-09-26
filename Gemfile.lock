@@ -1,0 +1,31 @@
+PATH
+  remote: .
+  specs:
+    event_fetch (0.0.1)
+
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    diff-lcs (1.2.5)
+    nokogiri (1.4.4)
+    rspec (3.1.0)
+      rspec-core (~> 3.1.0)
+      rspec-expectations (~> 3.1.0)
+      rspec-mocks (~> 3.1.0)
+    rspec-core (3.1.4)
+      rspec-support (~> 3.1.0)
+    rspec-expectations (3.1.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.1.0)
+    rspec-mocks (3.1.1)
+      rspec-support (~> 3.1.0)
+    rspec-support (3.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (>= 1.0.0)
+  event_fetch!
+  nokogiri
+  rspec
