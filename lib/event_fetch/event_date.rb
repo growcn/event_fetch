@@ -22,6 +22,12 @@ module EventFetch
         start_at = Time.mktime(year,date[1].to_i, date[2].to_i, date[4],date[5])
         stop_at  = Time.mktime(year,date[6].to_i, date[7].to_i, date[9],date[10])
 
+      elsif date = /(.*?)月(.*?)日 ~ (.*?)年(.*?)月(.*?)日 每天(.*?):(.*?)-(.*?):(.*)/.match(dateformat)
+        #bug1.8.7 date = /(.*?)月(.*?)日 ~ (.*?)月(.*?)日 每(.?)(.*?):(.*?)-(.*?):(.*)/.match(dateformat)
+        #dateformat="09月08日 ~ 10月31日 每天10:01-21:30"
+        start_at = Time.mktime(year,date[1].to_i, date[2].to_i, date[5], date[6])
+        stop_at  = Time.mktime(year,date[3].to_i, date[4].to_i, date[7], date[8])  
+
       elsif date = /(.*?)月(.*?)日 ~ (.*?)月(.*?)日 每天(.*?):(.*?)-(.*?):(.*)/.match(dateformat)
         #bug1.8.7 date = /(.*?)月(.*?)日 ~ (.*?)月(.*?)日 每(.?)(.*?):(.*?)-(.*?):(.*)/.match(dateformat)
         #dateformat="09月08日 ~ 10月31日 每天10:01-21:30"
@@ -43,6 +49,8 @@ module EventFetch
       #puts ">#{date.inspect}"
       #puts "------"
       return start_at,stop_at
+    rescue =>e 
+      raise " '#{dateformat}' time parse error: #{e.inspect}"
     end 
   end
 end

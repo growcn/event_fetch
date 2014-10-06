@@ -4,6 +4,11 @@ require 'event_fetch/model'
 require 'event_fetch/event_date'
 require 'event_fetch/douban/base'
 require 'event_fetch/douban/event'
+require 'event_fetch/douban/web/detail'
+
+require 'event_fetch/douban/api/detail'
+require 'event_fetch/douban/api/event_list'
+require 'event_fetch/douban/api/event'
 
 module EventFetch
   extend self

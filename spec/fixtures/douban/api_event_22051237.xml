@@ -1,0 +1,35 @@
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+<id>http://api.douban.com/event/22051237</id>
+<title>赵雷2014新专辑《吉姆餐厅》，全国巡演</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/leizizhao" rel="alternate"/>
+<link href="http://api.douban.com/site/leizizhao" rel="self"/>
+<link href="http://shuo.douban.com/#!/900029048" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/04b50fc30086f06.jpg" rel="icon"/>
+<name>赵雷</name>
+<uri>http://api.douban.com/site/leizizhao</uri>
+</author>
+<link href="http://api.douban.com/event/22051237" rel="self"/>
+<link href="http://www.douban.com/event/22051237/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22051237/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/bd001204325eb6e.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/8bcaa49da8037f7.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/bd001204325eb6e.jpg" rel="image-lmobile"/>
+<summary>
+【新专辑2014全国巡演合作咨询】 @蒋步庭 微博http://weibo.com/jiangbuting QQ1193657158 邮箱1193657158@qq.com 手机18610967776 —————————————————————————————————————— 哈尔滨站 时间：10月24日 地点：道里区 兆麟街62号哈尔滨话剧院大剧场 购票：http://y.baidu.com/event/108...
+</summary>
+<content>内容测试</content>
+<content2>
+【新专辑2014全国巡演合作咨询】 @蒋步庭 微博http://weibo.com/jiangbuting QQ1193657158 邮箱1193657158@qq.com 手机18610967776 —————————————————————————————————————— 哈尔滨站 时间：10月24日 地点：道里区 兆麟街62号哈尔滨话剧院大剧场 购票：http://y.baidu.com/event/10833?pst=yyr_host 长春站 时间：10月25日 地点：长春市朝阳区红旗街万达五号楼三单元对面 八两小酒馆 购票：http://y.baidu.com/event/10834?pst=yyr_host 沈阳站 时间：10月26日 地点：辽宁 沈阳 铁西区兴华北街8号1905文化创意园 购票：http://y.baidu.com/event/10835?pst=yyr_host 石家庄站 时间：11月01日 地点：河北 石家庄 裕华区 地下丝绒音乐大厅 购票：http://y.baidu.com/event/10845 郑州站 时间：11月08日 地点：河南 郑州 文化路金水路交叉口东北角中原大舞台内二楼 购票：http://y.baidu.com/event/10846 济南站 时间：11月09日 地点：山东 济南 历下区 环山路69号班卓音乐酒吧 购票：http://y.baidu.com/event/10849 —————————————————————————————————————— 赵雷歌迷黑龙江活动群 389822225 赵雷歌迷吉林活动群 176230814 赵雷歌迷辽宁活动群 121103132 赵雷歌迷河北活动群 392181003 赵雷歌迷河南活动群 390182943 赵雷歌迷山东活动群 398826875 ——————————————————————————————————————
+</content2>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">187</db:attribute>
+<db:attribute name="wishers">352</db:attribute>
+<db:attribute name="album">134834859</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2015-01-25T23:00:00+08:00" startTime="2014-10-31T08:00:00+08:00"/>
+<gd:where valueString="北京 西城区 旧鼓楼大街145号"/>
+<georss:point>39.941986 116.393806</georss:point>
+</entry>

@@ -18,7 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
+[活动接口](http://www.douban.com/service/apidoc/reference/event#获取城市的所有活动)
+
 ```
+# api调用
+event=EventFetch::Douban::Api::Event.location('beijing')
+event.size
+default_opt = {'type'=>all,'start-index'=>1,'max-results'=>20}
+
+event=EventFetch::Douban::Api::Event.location('beijing',default_opt)
+
+# web解析调用
 fd = EventFetch.fetch_douban("beijing","music", 10, 1000)
 fd.size
 # => 10
@@ -42,7 +52,7 @@ rspec spec
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/event_fetch/fork )
+1. Fork it ( https://github.com/growcn/event_fetch/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

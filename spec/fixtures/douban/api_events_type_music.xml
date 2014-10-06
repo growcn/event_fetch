@@ -1,0 +1,347 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+<title>豆瓣同城 北京 的 音乐 活动</title>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/21791786</id>
+<title>冰岛乐队Bang Gang 2014“Forever Now”中国巡演</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/pocketrecords" rel="alternate"/>
+<link href="http://api.douban.com/site/pocketrecords" rel="self"/>
+<link href="http://shuo.douban.com/#!/900032714" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/c524b37d93dd8df.jpg" rel="icon"/>
+<name>口袋唱片</name>
+<uri>http://api.douban.com/site/pocketrecords</uri>
+</author>
+<link href="http://api.douban.com/event/21791786" rel="self"/>
+<link href="http://www.douban.com/event/21791786/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/21791786/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/9bce0148b19e82f.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/95033ef26698821.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/9bce0148b19e82f.jpg" rel="image-lmobile"/>
+<summary>
+冰岛乐队Bang Gang 2014“Forever Now”中国巡演 9.26 北京 愚公移山 http://www.douban.com/event/21870621/ 9.27 上海 浅水湾文化艺术中心 http://www.douban.com/event/21870927/ 9.28 深圳 B10现场 http://www.douban.com/event/21871034/ 10.1 香港 Hidden Agenda http://www.douban.com/event/21899217/ 10.2 广州 TU凸...
+</summary>
+<content>
+冰岛乐队Bang Gang 2014“Forever Now”中国巡演 9.26 北京 愚公移山 http://www.douban.com/event/21870621/ 9.27 上海 浅水湾文化艺术中心 http://www.douban.com/event/21870927/ 9.28 深圳 B10现场 http://www.douban.com/event/21871034/ 10.1 香港 Hidden Agenda http://www.douban.com/event/21899217/ 10.2 广州 TU凸空间 http://www.douban.com/event/21871166/ 冰岛乐队Bang Gang是Bardi Johannsson构筑的个人世界。绝美、冰冷、性感，自我是他永恒的源泉。 “人们总是问我，为什么冰岛的音乐如此特殊？原因就是，所有的乐队都很好，他们都知道自己的音乐不会传递给收音机前的听众，他们都知道，在冰岛，他们的唱片卖不到200张。他们只按照自己的喜好做音乐”—Bardi 2014年秋天，Bardi将携全新编制乐队开始中国之旅，巡演主题（Forever Now）此刻永恒，愈发浪漫、深沉，Bang Gang以音乐为入口，邀你体验他的世界与灵魂。 另外， 想跟冰岛乐队Bang Gang合作拍摄MV么？想成为大牌MV的男女主角么？即将在九月开启新一轮中国巡演的Bang Gang，将首次在中国拍摄新专辑的MV，现有意寻找MV导演及MV男女主角，需要有气质并且上镜的姑娘小伙儿各一枚，感兴趣的请赶快新浪微博私信@声演坊了解详情！走过路过不要错过，跟大牌合作啦！ “仿佛触摸到一个暖暖内含光般忧郁的灵魂”。冰岛，这个人口只有20万左右的国家，在最近几年里却不断涌现出一批个性张扬桀骜不羁的优秀乐队，如Bjork、Gus Gus、Sigur ros、Aria、Singapore Sling、Emilana等，有意思的是，这些乐队的名字只频繁出现在电子和后摇类型中，而不是其他的类型。Bang Gang就是其中一支在Trip-Hop领域里浸淫很深的乐队。已经找到完美的音乐伴随着你在漫长的黑夜中跳舞，眼前黑暗，但仍然充满着光和难忘的声音，音乐流露出如钻石般锐利的伤感，强烈的情感表达和电子乐的组合构成了BANG GANG。
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">321</db:attribute>
+<db:attribute name="wishers">543</db:attribute>
+<db:attribute name="album">132696884</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-02T21:30:00+08:00" startTime="2014-09-26T20:00:00+08:00"/>
+<gd:where valueString="北京 东城区 北京 上海 广州 深圳 香港"/>
+<georss:point>39.93372 116.414795</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22535437</id>
+<title>劈金见水 — 大忘杠十月音乐会</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/mako" rel="alternate"/>
+<link href="http://api.douban.com/site/mako" rel="self"/>
+<link href="http://shuo.douban.com/#!/900030143" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/df7db6e6771a1a0.jpg" rel="icon"/>
+<name>麻雀瓦舍</name>
+<uri>http://api.douban.com/site/mako</uri>
+</author>
+<link href="http://api.douban.com/event/22535437" rel="self"/>
+<link href="http://www.douban.com/event/22535437/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22535437/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/f277d3c384f11cf.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/e08a9e2aa415d66.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/f277d3c384f11cf.jpg" rel="image-lmobile"/>
+<summary>
+劈金见水—-大忘杠十月巡演 Water From Breaking Gold—-Dawanggang Fall Tour 时间：2014年10月1日 地点：麻雀瓦舍 门票：预售100 现场120 预售票：http://y.baidu.com/event/10802 宋雨喆：人声、八仙班卓、吉他 Song Yuzhe: vocals＆8 strings banjo＆guitar 李铁桥：萨克斯、木簧管 Li Tieqiao :sax 张荐：电管风琴、采样 Zh...
+</summary>
+<content>
+劈金见水—-大忘杠十月巡演 Water From Breaking Gold—-Dawanggang Fall Tour 时间：2014年10月1日 地点：麻雀瓦舍 门票：预售100 现场120 预售票：http://y.baidu.com/event/10802 宋雨喆：人声、八仙班卓、吉他 Song Yuzhe: vocals＆8 strings banjo＆guitar 李铁桥：萨克斯、木簧管 Li Tieqiao :sax 张荐：电管风琴、采样 Zhang jian: organ＆Sample Quentin Manfroy: flute＆bass 李旦：鼓，打击乐　Li Dan: drum ＆percussion 大忘杠如同木推瓜一样难以定义，民间音乐和诗歌，宗教，大地山河，构成大忘杠的强大磁场，然而宋雨喆并不被任何一块磁石吸走。—-张晓舟 一个打破音乐与文化的界限，汇集过去和现在以及亚洲民乐、声音艺术、中国歌剧和摇滚于一体的乐队。—BBC An experimental group dedicated to breaking down musical and cultural boundaries, bringing together the past and the present, in the form of Asian folklore, sound art, Chinese opera and rock.—-BBC 来自中国的有传统意识并能引发幻象的先锋,独立的音响艺术叙事，充满力量，出神入化，完全当代 ! —德国唱片评论家奖
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">35</db:attribute>
+<db:attribute name="wishers">103</db:attribute>
+<db:attribute name="album">139079711</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-01T22:30:00+08:00" startTime="2014-10-01T21:00:00+08:00"/>
+<gd:where valueString="北京 朝阳区 双井 麻雀瓦舍"/>
+<georss:point>39.892616 116.424866</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22699676</id>
+<title>爱▪自由电子音乐节暨《太空呼叫》电音合辑首发</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/mako" rel="alternate"/>
+<link href="http://api.douban.com/site/mako" rel="self"/>
+<link href="http://shuo.douban.com/#!/900030143" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/df7db6e6771a1a0.jpg" rel="icon"/>
+<name>麻雀瓦舍</name>
+<uri>http://api.douban.com/site/mako</uri>
+</author>
+<link href="http://api.douban.com/event/22699676" rel="self"/>
+<link href="http://www.douban.com/event/22699676/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22699676/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/c5c9ba346047b17.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/4686f4b88ee5fc6.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/c5c9ba346047b17.jpg" rel="image-lmobile"/>
+<summary>
+爱▪自由电子音乐节暨太空计划电音合辑首发 ——一切只因为年轻爱自由 麻雀瓦舍 乐童音乐 虾米音乐人 灯笼Club KOSA音乐 五大平台联合呈现 时间：2014年10月4日下午1：00至10月5日凌晨1:00 地点：麻雀瓦舍 【门票预售】：http://www.musikid.com/tour/80 又到了十月假期电音狂欢的时刻！还记得去年同一时间地点，我们为年轻爱...
+</summary>
+<content>
+爱▪自由电子音乐节暨太空计划电音合辑首发 ——一切只因为年轻爱自由 麻雀瓦舍 乐童音乐 虾米音乐人 灯笼Club KOSA音乐 五大平台联合呈现 时间：2014年10月4日下午1：00至10月5日凌晨1:00 地点：麻雀瓦舍 【门票预售】：http://www.musikid.com/tour/80 又到了十月假期电音狂欢的时刻！还记得去年同一时间地点，我们为年轻爱自由的你打造的狂欢么?今年我们将给你带来更酷更好玩的奇妙体验！ 十二个小时、两个舞台、八位在各自风格领域极具代表性的本土电音制作人、携手北京传奇电音俱乐部——灯笼CLUB与出色的DJ团体——幻境，呈现一场全景式的电音盛宴！上演本土电音力量之间最强的碰撞！ 全球商业电音浪潮开始猛袭中国，强大的声浪盖住了电子音乐深邃的文化与多样的风格，浮躁的夜店模式扭曲了大众对电子音乐的印象。在万人狂欢，华丽灯光的背后，国内其实还隐藏着许许多多怀揣梦想与热情的本土制作人们。他们为了几分钟尽情的舞蹈勤恳地创作，但却并不为大众所熟知。 虾米音乐人正是集结了这样一批优秀的本土音乐人，通过线下爱自由音乐节，线上的《太空呼叫》合辑计划来为大家还原出一个本土电子音乐的全貌。从制作，到DJ技术，派对文化，让你零距离的真正参与、体验电音文化的方方面面。我们希望这些点滴的努力能够点燃中国年轻一代的电音梦想！给中国本土电音的发展多一些支持！ 【【高亮】】我们依然坚持学生免费入场（凭有效学生证）！并将获得由十三位国内顶尖电子音乐制作人联手打造的《太空呼叫》计划电音合辑一张！ 时间：2014年10月4日 中午12:00至10月5日凌晨1点 地点：麻雀瓦舍 【北京市朝阳区广渠路36号院东院 红点艺术工厂内 - 双井家乐福对面 】 门票：预售60元（含太空计划合辑一张） 现场70元（含太空计划合辑一张） 学生持有效证件免费入场 咨询电话：010-52051113（问路）/ 15801383855、15201231295（媒体合作） 爱 舞台 (主舞台） 12:00入场 领取CD 1:00 – 2:00 孟奇具有现场感的LIVE 表演 2:00- 3:00 CNDY 神秘的电音乐队给现场营造出一种科技与神秘气氛 3:00- 6:00 灯笼 TIME 领略北京最纯正的电音文化 Elivs.T Kristian Zinnack PM6:00-8:00 HOUSE time 夜幕降临 逐渐松弛 DJ Doggy Chuchu 8:00-9:00 Lofi- Maker dubstep 让你丢掉所有的羞涩，只剩下疯狂地手舞足蹈。 10:00-11：00 LANX TRANCE TIME TRANCE翻译：迷幻！ 11:00-11:30 WHAI 11:30-1:30 GOA TIME AtonedSplendor Time out 杂志评选北京最优秀的DJ团队带来派对的高潮。 自由舞台： 12:30-1:30 Techno 文化的讲座 北京地下舞曲历史 Wengweng 老师教你做DJ 1：30-2：10 电板鸭老师讲解电音分类（录像） 2：10-3：00 制作人交流会 你是否好奇他们的电音生涯是怎样开始的？ 3:00-5:00 孟奇制作工作坊 怎样入门电子乐制作 合成器的工作原理 电子乐器上手玩 5:00-6:30 怎样制作酷炫的Dubstep 主讲： Lofi-maker 7:00-8:00 音乐节已经跟不上你躁动的节奏？ KEMP带你领略躁动的Brostep音乐。 8：00- 9： 30 OPS 7 驰放空间 如果燥累得话，来二楼稍作休息 9:30 — 12:00 如同去年一样这个时段属于年轻人：校园DJ SHOW 《太空呼叫》合辑计划： 每个人都是一颗孤独的星球，而冷漠的人潮就像苍茫的太空。我们发送出这张合辑的信息，去找寻热爱电子音乐的火苗。十二位在各自类型中最具代表性制作人联手打造《太空呼叫》合辑计划，向太空发出寻找伙伴的呼叫！当你购买这张合辑与门票的同时，你也为一名学生购买了一张合辑。让他也听到你内心所热爱的声音！一同共赴这场电音的狂欢。 计划名称由来： 2001年：莫斯科的俄罗斯科学院射电工程师Alexander Zaitsev和“太空呼叫”信息研究小组部分十几岁的年轻成员，向太空外星人发送了信息。里面还包括一种叫做泰勒明电子琴的昔日创新型乐器演奏的电子音乐会。为了寻找同样热爱电子乐的朋友，我们以《太空呼叫》为合辑命名。就是希望能寻找到同样热爱电子音乐的生命火种。希望爱电子音乐的人不再像地球一样孤独! 合辑阵容： Atoned Splendor  Alien Possession PSY Trance 白天不亮 Fortress Besieged Electronic JAZZ CNdY You Electronic Rock CHUCHU AH OH Un Disco 3aisc Alive Progressive House DJ Doggy LOST Deep House Lanx Taichi  Trance Lofi-maker Gold Dubstep mAjorHon Subbass of China Dubstep 喜 才村故事 民族电子 Wanderlust Persian Robots Synthpop Me:mo 惋惜之情 Ambient 孟奇 寒冷的季节 实验电子
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">37</db:attribute>
+<db:attribute name="wishers">67</db:attribute>
+<db:attribute name="album">140646141</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-04T23:30:00+08:00" startTime="2014-10-04T13:00:00+08:00"/>
+<gd:where valueString="北京 朝阳区 麻雀瓦舍"/>
+<georss:point>39.892277 116.473465</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22071688</id>
+<title>爱乐汇 《夜的钢琴曲》—石进钢琴作品音乐会</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/chinaticket" rel="alternate"/>
+<link href="http://api.douban.com/site/chinaticket" rel="self"/>
+<link href="http://shuo.douban.com/#!/900000451" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/a2ee607b44e1df3.jpg" rel="icon"/>
+<name>中票在线</name>
+<uri>http://api.douban.com/site/chinaticket</uri>
+</author>
+<link href="http://api.douban.com/event/22071688" rel="self"/>
+<link href="http://www.douban.com/event/22071688/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22071688/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/69d8e201d2cb3ad.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/1e18c8e6ef18418.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/69d8e201d2cb3ad.jpg" rel="image-lmobile"/>
+<summary>
+欢迎关注中票在线豆瓣小站： http://site.douban.com/chinaticket/ 定期举办抢票、抢专辑等各种福利活动哟\(^o^)/~ 欢迎大家在微信添加好友里搜索【中票在线 】，加中票在线为微信好友， 我们将定期发布最新最全的演出资讯。 ◆演出详情&购票：http://www.chinaticket.com/beijing/view/16687.html ◆演出时间：2014年10月3日 ...
+</summary>
+<content>
+欢迎关注中票在线豆瓣小站： http://site.douban.com/chinaticket/ 定期举办抢票、抢专辑等各种福利活动哟\(^o^)/~ 欢迎大家在微信添加好友里搜索【中票在线 】，加中票在线为微信好友， 我们将定期发布最新最全的演出资讯。 ◆演出详情&购票：http://www.chinaticket.com/beijing/view/16687.html ◆演出时间：2014年10月3日 ◆演出地点：北京音乐厅 ◆票价：180 280 380 480 680 ◆订票电话：400-880-2880 石进《夜的钢琴曲》音乐会 听者说，仔细聆听石进《夜的钢琴曲》系列，你会感觉，曲子里充满了忧伤，仿佛溪流，仿佛海风，仿佛忧伤划过安静。 石进，1981年出生，白羊座，广西柳州人，现居南宁，职业是一名网络工程师，喜欢打篮球、看电影、旅行。与普通的80后生活不无二致，不同的是他是《夜的钢琴曲》系列作者。 起初，石进凭着自己业余爱好创作《夜的钢琴曲》系列被冯小刚经典电影《非诚勿扰Ⅱ》川川朗诵扎西拉姆·多多的诗 《班扎古鲁白玛的沉默》选为该段配乐，之后成为广播电视媒体经典的背景音乐，2011年5月代表作品《夜的钢琴曲五》被提名华语金曲奖，提名年度最佳独奏专辑。 有人说，《夜的钢琴曲》只适合晚上聆听的旋律，每个人在这里，总会找到一首适合自己心情的故事。有人说，每次听石进那些《夜的钢琴曲》，心都会在那一瞬间变得特别柔软，心里的褶皱中像是开出奇异花朵般，散发着或美好或悲伤的味道。有人说，闭上眼睛，听石进《夜的钢琴曲》，让自己从现实世界逃离一会。 石进说一架钢琴，一个人的夜，于是，诞生了《夜的钢琴曲》。记录生活的方式有多种，有人用文字，有人用摄影，有人用述说，而石进选择用音乐。每个人方式不一样，但却都有着共同的愿望。失去的日子，我们都需要回忆。《夜的钢琴曲》首首都是不同的心情，记录着一个又一个夜晚，欢乐的、忧伤的、难过的、当然也包括幸福的。系列中的每一首曲子都静谧舒缓，让彼此心灵诗意地栖息。在这里，每个人总会找到一首属于自己情感的乐曲…… 艺术家简介： 石进来自柳州，《夜的钢琴曲》系列作者，在南宁工作，从2005年开始创作至今，他已经写了60余首钢琴曲和多首通俗歌曲，大学学的是计算机信息管理专业，现是区内一家国有网络企业的工程师。写钢琴曲对他来说只是业余爱好，“当初根本没想到会有这么多人喜欢”。 石进说，自己小学时学过两年电子琴，由于学业忙就停止了对音乐的学习。到了2002年，因为看了一场周杰伦的音乐会，他决定自学钢琴。2004年，自学到有一定基础后，他开始自己写歌。2005年离开柳州到南宁工作生活，也就是从那时候起，有了《夜的钢琴曲》系列。他把《夜的钢琴曲》（五）（以下简称“夜五”）等音乐小样传到网上，和朋友分享。2010年，这首曲子被《非诚勿扰》剧组的工作人员发现，作为备选音乐推荐给冯小刚导演，冯导一听，当即决定用这首钢琴曲作为片中川川朗诵诗歌《班扎古鲁白玛的沉默》的配乐。之后成为广播电视媒体经典的背景音乐。 石进写的钢琴曲没有多么精深、高妙，演奏起来也不需要什么高难度的技巧，但却打动了包括冯导在内的众多听众。对于“夜五”，石进坦言背后没有太多复杂的故事，“录音是即兴的，弹了三遍，"夜五"花了40分钟就完成了，只是记录爱与被爱的体会。 作品成就 2010年冯小刚导演的电影《非诚勿扰Ⅱ》中，《夜的钢琴曲五》成为电影配乐。 2010年4月出版《夜的钢琴曲—石进原创钢琴曲14首》一书，销售一空。 2011年5月原创钢琴曲《夜的钢琴曲 Melody Of The Night》专辑获得2011年华语金曲奖年度最佳独奏专辑。 2012年11月《夜的钢琴曲Ⅱ》CD正式发行，销售一空。 2006-2009年录制Demo《夜的钢琴曲1-31首》专辑(即将于2014年正式出版)。 《夜的钢琴曲》系列在虾米音乐非常受欢迎，长期高居在虾米歌曲的热听榜上，四年来在虾米音乐的试听量已经积累达近5千多万。 从国民导演的电影到央视、全国卫视各类电视节目、广播甚至是一些高档的购物场所，都能捕捉到石进的钢琴曲作为背景音乐华美而不张扬的存在着，可以说他成了当之无愧的背景音乐王。 周杰伦在《青花瓷》中唱到“天青色等烟雨而我在等你”。2014，石进在上海等你。 石进《夜的钢琴曲》演奏会曲目单 上半场： 1、春雾+暗恋 2、第101次约会+爱如烟花一瞬间 3、回忆的温度 4、就这样远远地看着你 5、忆 6、街道的寂寞 7、情人节的礼物 8、隐形的思念 下半场： 1、忘了我爱你+一个人的时光 2、雨葵 3、1981 4、花的微笑 5、回眸 6、夜的钢琴曲5 7、被时光移动的城市+惜别 8、白羊座的忧伤+第七封情书 9、陪着我的她
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">23</db:attribute>
+<db:attribute name="wishers">79</db:attribute>
+<db:attribute name="album">134965970</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-03T21:30:00+08:00" startTime="2014-10-03T19:30:00+08:00"/>
+<gd:where valueString="北京 西城区 北京市西城区北新华街1号"/>
+<georss:point>39.906246 116.382454</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22329810</id>
+<title>火锅音乐秋季强力呈献：欧洲BEATDOWN硬核之王——NASTY</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/maolivehouse" rel="alternate"/>
+<link href="http://api.douban.com/site/maolivehouse" rel="self"/>
+<link href="http://shuo.douban.com/#!/900030207" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/78ebc2a52fe32d0.jpg" rel="icon"/>
+<name>MAO LIVE HOUSE</name>
+<uri>http://api.douban.com/site/maolivehouse</uri>
+</author>
+<link href="http://api.douban.com/event/22329810" rel="self"/>
+<link href="http://www.douban.com/event/22329810/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22329810/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/8493ed3ef29ee38.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/7f9dd7390aff5fa.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/8493ed3ef29ee38.jpg" rel="image-lmobile"/>
+<summary>
+火锅音乐秋季强力呈献 欧洲硬核攻势第二弹：欧洲BEATDOWN硬核之王——NASTY中国巡演北京站 日期：2014年10月1日 入场：20:00 开始：20:30 场地：MAO LIVEHOUSE 地址：北京市东城区鼓楼东大街111号 嘉宾： SAVING MOLLY http://site.douban.com/savingmolly/ RETURN THE TRUTH http://site.douban.com/returnthetruth 最后一招 h...
+</summary>
+<content>
+火锅音乐秋季强力呈献 欧洲硬核攻势第二弹：欧洲BEATDOWN硬核之王——NASTY中国巡演北京站 日期：2014年10月1日 入场：20:00 开始：20:30 场地：MAO LIVEHOUSE 地址：北京市东城区鼓楼东大街111号 嘉宾： SAVING MOLLY http://site.douban.com/savingmolly/ RETURN THE TRUTH http://site.douban.com/returnthetruth 最后一招 http://site.douban.com/TLRBJHC/ 门票：预售90元，现场120元 预售链接：http://hotpotmusic.taobao.com -------------------------------------------- NASTY介绍 BEATDOWN硬核是硬核音乐一个分支，故名思意，BEATDOWN硬核里有大量的下拨吉他失真和低音鼓的重拍，这也让BEATDOWN在音乐形态上显得更加暴力十足。目前世界上最受欢迎的BEATDOWN硬核乐队里，来自比利时的NASTY无疑是公认的欧洲BEATDOWN硬核之王。 NASTY于2004年在比利时与德国交界的小城凯米斯成立，乐队成员包括主唱Matthi、吉他手Chris、贝司手Berry和鼓手Nash。在2004年发表了首张DEMO之后，NASTY于2005年发表了首张EP《The Beginning》，获得了许多比利时当地厂牌的青睐。2006年NASTY正式签约在比利时独立厂牌Fuck This Recordings旗下，并于同年发表了首张专辑《Declaring War》。2008年，已经积累了不少死硬乐迷的NASTY转签至德国名厂Goodlife Recordings旗下，同年发布了第二张专辑《Aggression》，这也是令NASTY真正打入欧洲重型音乐领域的专辑，之后他们不但参加了HELLFEST、SUMMERBLAST、SUMMERBREEZE等欧洲各大音乐节，更是走出欧洲与THICK AS BLOOD、CDC等美国硬核名团完成了首次北美巡演。 2010年，NASTY的第三张专辑《Give a Shit》正式发表。2012年，NASTY转签至德国硬核名厂BEATDOWN HARDWEAR RECORDS旗下，同年夏天他们参加了欧洲最大的重型音乐节之一的With Full Force，并与PARKWAY DRIVE、EMMURE等乐队完成了欧洲巡演。2013年NASTY在BEATDOWN HARDWEAR旗下发表了第四张专辑《Love》，他们邀请了Your Demise和Deez Nuts作为这张专辑巡演的巡演嘉宾。2014年春天，乐队刚刚结束了与SUICIDAL TENDENCIES、TERROR、STRIFE、EVERGREEN TERRACE等众多名团一起同台的音乐节巡演PERSISTENCE TOUR 2014。前不久，他们更是受邀与DEEZ NUTS一同参演了欧洲最大硬核音乐节IMPERICON FESTIVAL。 这个秋天，NASTY将应火锅音乐邀请，首次进行中国巡演。 NASTY首次中国巡演日程 10-1 北京 MAO 预售90元/现场120元 官网：http://facebook.com/getnasty 豆瓣：http://site.douban.com/nastyhc/ 微博：http://weibo.com/nastyhc 火锅音乐 豆瓣：http://site.douban.com/hotpotmusic 微博：http://weibo.com/hotpotmusic 官方网店：http://hotpotmusic.taobao.com 微信公众平台：hotpotmusic 参考视频： Nasty - As The Blood Runs Cold [Feat.Peachey Of Six Ft Ditch] http://v.youku.com/v_show/id_XNjEzNTUwODIw.html NASTY - Lying When They Love Us官方MV http://v.youku.com/v_show/id_XNzEyNDAwMjI4.html NASTY - SLAVES TO THE RICH (Official Music Video) http://v.youku.com/v_show/id_XNTYwMzM3Njky.html Nasty - Slaves To The Rich(Impericon Official HD Live Video) http://v.youku.com/v_show/id_XNzEzMDA2MDYw.html Nasty - LIVE Summerblast 2014 http://v.youku.com/v_show/id_XNzM2MjQzMjg0.html
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">27</db:attribute>
+<db:attribute name="wishers">61</db:attribute>
+<db:attribute name="album">137471096</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-01T23:30:00+08:00" startTime="2014-10-01T20:00:00+08:00"/>
+<gd:where valueString="北京 东城区 MAO Live House"/>
+<georss:point>39.941025 116.403412</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22641613</id>
+<title>【北漂团伙】争奇斗艳 摇滚现场</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/maolivehouse" rel="alternate"/>
+<link href="http://api.douban.com/site/maolivehouse" rel="self"/>
+<link href="http://shuo.douban.com/#!/900030207" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/78ebc2a52fe32d0.jpg" rel="icon"/>
+<name>MAO LIVE HOUSE</name>
+<uri>http://api.douban.com/site/maolivehouse</uri>
+</author>
+<link href="http://api.douban.com/event/22641613" rel="self"/>
+<link href="http://www.douban.com/event/22641613/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22641613/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/578a64ca65450dd.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/82a98051a2e69ea.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/578a64ca65450dd.jpg" rel="image-lmobile"/>
+<summary>
+【北漂团伙】争奇斗艳 摇滚现场 预售票优惠地址：http://www.douban.com/event/22641613/discussion/58852799/ 活动详情： 这是一场女主唱们的演出，可谓是百花齐放，争奇斗艳！！十一长假黄金周，出去旅游度假，走访串亲之余，出来欢度十一，吃吃饭，聚聚会，会会朋友叫出来到MAO一起玩玩，一起聊聊，一起喝喝，看看这些女...
+</summary>
+<content>
+【北漂团伙】争奇斗艳 摇滚现场 预售票优惠地址：http://www.douban.com/event/22641613/discussion/58852799/ 活动详情： 这是一场女主唱们的演出，可谓是百花齐放，争奇斗艳！！十一长假黄金周，出去旅游度假，走访串亲之余，出来欢度十一，吃吃饭，聚聚会，会会朋友叫出来到MAO一起玩玩，一起聊聊，一起喝喝，看看这些女生们带给你们震撼的摇滚乐。6支乐队风格各异，她们希望在现场看到你们和她们一起玩一起闹一起大汗淋漓。这一天之后长假即将结束，都该出来玩玩了，本场也是十一期间MAO的最后一场演出，想看的就来吧，日子是10月6号，摇滚现场—鼓楼MAO之夜！！！ 演出阵容：旋灵木 彩虹桥 糖果怪兽 程诗迦 茶小姐与熊先生 MISS MIX 演出时间：2014年10月6日 晚上8点半开始 演出票价：60RMB(预售) 80RMB(现场) 地址：MAO Live house北京市东城区鼓楼东大街111号（南北锣鼓巷之间的马路上）
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">9</db:attribute>
+<db:attribute name="wishers">54</db:attribute>
+<db:attribute name="album">139703266</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-06T23:30:00+08:00" startTime="2014-10-06T20:30:00+08:00"/>
+<gd:where valueString="北京 东城区 MAO Live House"/>
+<georss:point>39.941025 116.403412</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22721668</id>
+<title>中国的Wacken 2014号角金属嘉年华</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/mortproductions" rel="alternate"/>
+<link href="http://api.douban.com/site/mortproductions" rel="self"/>
+<link href="http://shuo.douban.com/#!/900031089" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/3bbc791ed2e653b.jpg" rel="icon"/>
+<name>号角唱片</name>
+<uri>http://api.douban.com/site/mortproductions</uri>
+</author>
+<link href="http://api.douban.com/event/22721668" rel="self"/>
+<link href="http://www.douban.com/event/22721668/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22721668/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/7b52fdd9603b9bf.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/eafcea0575c880b.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/7b52fdd9603b9bf.jpg" rel="image-lmobile"/>
+<summary>
+10月2日 天火 16:00 梦灵 16:55 判官 17:50 深山 18:45 施教日 19:40 Never Before 20:35 霜冻前夜 21:30 10月3日 V89 16:00 ODMC 16:55 泰菲拉 17:50...
+</summary>
+<content>
+10月2日 天火 16:00 梦灵 16:55 判官 17:50 深山 18:45 施教日 19:40 Never Before 20:35 霜冻前夜 21:30 10月3日 V89 16:00 ODMC 16:55 泰菲拉 17:50 楚歌 18:45 紫冥 19:40 但丁之舟 20:35 九宝 21:30 10月4日 黑湖 16:00 寂静的幽怨 16:55 平均律 17:50 陈尸 18:45 永恒之翼 19:40 恶刺 20:35 玉麟军 21:30 地址： 丰台区 南苑村团河路369号(公益西桥)北京国际露营公园 一、公共交通路线 4号线地铁新宫站B口出——转乘353或运通115（五爱屯站下车）——转乘954（团河路北口站下车，前行约400米）。 4号线地铁新宫站A口出——转乘556（西营房站下）——转乘676（团河路北口站下，前行约400米） 二、自驾车路线 南四环公益西桥向南到尽头，丁字路口左转，第一个红绿灯右转，沿民俗旅游文化街南行1000米路西大门进入即可。 号角金属嘉年华是一次对于金属乐迷的聚会。也是全国各地众多热爱摇滚音乐青年人们的聚会——人们来到这里已不仅是为了交流音乐或欣赏音乐。在节假日出行到达北京国际露营公园参加这次盛会，还可以进行野外露营、聚会、小高尔夫、马术俱乐部、垂钓、拓展训练、儿童乐园、卡丁车等户外休闲活动。这里不仅可以更多地享受朋友们的欢聚和精神的放松，也可以一边领略劲爆十足的音乐，一边享用啤酒烧烤与绿野蓝天下的野外休闲。从木屋，房车，蒙古包。到跳骚市场和创意市集，从户外俱乐部到骑行主题活动，号角金属嘉年华将是一个充满理想与希望的自由假日。也是中国第一个把金属音乐引领到户外的先行者。
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">24</db:attribute>
+<db:attribute name="wishers">24</db:attribute>
+<db:attribute name="album">141047160</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-02T22:30:00+08:00" startTime="2014-10-02T16:00:00+08:00"/>
+<gd:where valueString="北京 东城区 北京东城区鼓楼东大街111号 MAO LIVE HOUSE"/>
+<georss:point>39.941025 116.403412</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22573167</id>
+<title>2014纽约摩登音乐节</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/modernsky" rel="alternate"/>
+<link href="http://api.douban.com/site/modernsky" rel="self"/>
+<link href="http://shuo.douban.com/#!/900030940" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/0f69450ab73ea1b.jpg" rel="icon"/>
+<name>摩登天空</name>
+<uri>http://api.douban.com/site/modernsky</uri>
+</author>
+<link href="http://api.douban.com/event/22573167" rel="self"/>
+<link href="http://www.douban.com/event/22573167/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22573167/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/5cf55b038e63382.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/19f97fb388cec28.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/5cf55b038e63382.jpg" rel="image-lmobile"/>
+<summary>
+纽约摩登音乐节10月举办 中国音乐节首出国门 “如果有人在2007年摩登天空音乐节在北京创办时告诉我，有一天这个音乐节会开在纽约的中央公园，我一定以为他疯了。2014年，我们终于有机会在这里向世界展示，让来自不同地方的音乐人和年轻人聚集在一起，用音乐展示他们的个性和共性。对我来讲，这是个开始，一个一起创造更有乐趣未来世界的新...
+</summary>
+<content>
+纽约摩登音乐节10月举办 中国音乐节首出国门 “如果有人在2007年摩登天空音乐节在北京创办时告诉我，有一天这个音乐节会开在纽约的中央公园，我一定以为他疯了。2014年，我们终于有机会在这里向世界展示，让来自不同地方的音乐人和年轻人聚集在一起，用音乐展示他们的个性和共性。对我来讲，这是个开始，一个一起创造更有乐趣未来世界的新起点。”摩登天空创始人沈黎晖如是说。 据《纽约时报》报道，10月4日-5日，中国知名音乐节品牌摩登天空音乐节将首度走出国门，于美国纽约中央公园举办，这是首个在中国之外举办的中国本土音乐节，也是摩登天空国际战略中的重要一步！近年，越来越多中国乐队不断走出国门，重塑雕像的权利乐队美国巡演，新裤子参演Coachella音乐节，而本次摩登音乐节进军纽约，更多中国优秀音乐家的集体亮相，对中国音乐人将有非同一般的意义，无疑将是中国音乐走向国际的一个重要里程碑。 中央公园，一个和摇滚乐紧密联系在一起的一个名字，约翰列侬生前最爱站在自家窗前眺望街对面的纽约中央公园，每年12月8日，在列侬遇刺的纪念日，在列侬和爱妻小野洋子经常流连的中央公园“草莓园”里，人们也自发地献花，甚至点亮一盏盏蜡烛，为列侬守夜。摩登音乐节海外站首战选择纽约中央公园举办，可谓意义深远。 为期两天的2014纽约摩登音乐节，除了邀请众多国际乐队/艺人之外，来自中国的数支乐队也将受邀参演。10月4日至5日，纽约，中央公园，或将见证中国音乐历史性一刻！ 2014纽约摩登音乐节 2014 Modern Sky Festival•NYC 时间：10月4-5日 地点：美国纽约中央公园
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">20</db:attribute>
+<db:attribute name="wishers">36</db:attribute>
+<db:attribute name="album">139337150</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-05T23:00:00+08:00" startTime="2014-10-04T11:00:00+08:00"/>
+<gd:where valueString="北京 东城区 纽约中央公园"/>
+<georss:point>39.911053 116.396973</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22310036</id>
+<title>国家大剧院打击乐节：瓦西里·佩特连科与皇家利物浦爱乐乐团音乐会</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/chncpa" rel="alternate"/>
+<link href="http://api.douban.com/site/chncpa" rel="self"/>
+<link href="http://shuo.douban.com/#!/900023083" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/e1eda5553572146.jpg" rel="icon"/>
+<name>国家大剧院</name>
+<uri>http://api.douban.com/site/chncpa</uri>
+</author>
+<link href="http://api.douban.com/event/22310036" rel="self"/>
+<link href="http://www.douban.com/event/22310036/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22310036/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/b8b50e0246c9438.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/a626e04d3294184.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/b8b50e0246c9438.jpg" rel="image-lmobile"/>
+<summary>
+演出剧场：音乐厅 演出时间：2014.10.19 演出票价：880/680/600/520*400/280/180元 官网订票95折： http://ticket.chncpa.org/product-1000448.html#201410519:30 曲目： 小提琴协奏曲　　　　　格拉祖诺夫 曲 独奏：宁峰 打击乐协奏曲　　　　　斯蒂华特·科普兰 曲 交响舞曲　　　　　　　拉赫玛尼诺夫 曲
+</summary>
+<content>
+演出剧场：音乐厅 演出时间：2014.10.19 演出票价：880/680/600/520*400/280/180元 官网订票95折： http://ticket.chncpa.org/product-1000448.html#201410519:30 曲目： 小提琴协奏曲　　　　　格拉祖诺夫 曲 独奏：宁峰 打击乐协奏曲　　　　　斯蒂华特·科普兰 曲 交响舞曲　　　　　　　拉赫玛尼诺夫 曲
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">18</db:attribute>
+<db:attribute name="wishers">38</db:attribute>
+<db:attribute name="album">137276508</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-05T21:30:00+08:00" startTime="2014-10-05T19:30:00+08:00"/>
+<gd:where valueString="北京 西城区 国家大剧院"/>
+<georss:point>39.904839 116.389862</georss:point>
+</entry>
+<entry xmlns:georss="http://www.georss.org/georss">
+<id>http://api.douban.com/event/22623369</id>
+<title>戏班乐队 “戏中戏”北京专场</title>
+<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#event.music"/>
+<author>
+<link href="http://site.douban.com/yugongyishan" rel="alternate"/>
+<link href="http://api.douban.com/site/yugongyishan" rel="self"/>
+<link href="http://shuo.douban.com/#!/900038927" rel="shuo"/>
+<link href="http://img3.douban.com/view/site/small/public/eab14a65ebda1ae.jpg" rel="icon"/>
+<name>愚公移山</name>
+<uri>http://api.douban.com/site/yugongyishan</uri>
+</author>
+<link href="http://api.douban.com/event/22623369" rel="self"/>
+<link href="http://www.douban.com/event/22623369/" rel="alternate"/>
+<link href="http://www.douban.com/location/partner/event/22623369/" rel="adapt-url"/>
+<link href="http://img3.douban.com/view/event_poster/median/public/21f5f3262cb0870.jpg" rel="image"/>
+<link href="http://img3.douban.com/view/event_poster/hlarge/public/30a3820fe5478ba.jpg" rel="image-hlarge"/>
+<link href="http://img3.douban.com/view/event_poster/lmobile/public/21f5f3262cb0870.jpg" rel="image-lmobile"/>
+<summary>
+暨全新双张限量专辑“《太平有象》+《五石散》”北京首唱 主角：戏班乐队 评弹表演：澄书馆 晚9点 // 120元（现场）/ 90元（预售 | 截止到10月1日24点） 大社音乐邀约来自上海的戏班乐队 2014年10月2日在北京愚公移山 上演绝妙的“戏境”般的现场演出 都说人生如戏 戏如人生 戏班乐队和大社音乐合力献上一场 “中国复古范”的...
+</summary>
+<content>
+暨全新双张限量专辑“《太平有象》+《五石散》”北京首唱 主角：戏班乐队 评弹表演：澄书馆 晚9点 // 120元（现场）/ 90元（预售 | 截止到10月1日24点） 大社音乐邀约来自上海的戏班乐队 2014年10月2日在北京愚公移山 上演绝妙的“戏境”般的现场演出 都说人生如戏 戏如人生 戏班乐队和大社音乐合力献上一场 “中国复古范”的表演 在戏班之前特邀 北京澄书馆 正宗评弹演员 献上传统的评弹表演 引领观众进入“戏班的戏中戏” 即将上市的戏班乐队全新双张专辑 “《太平有象》+《五石散》” 凝聚了几年来乐队的新创作品 够中国 够世界 够文艺 够洒脱 全部新戏 熟戏 大戏 好戏 敬请期待 10月2日 愚公移山 我们戏中见
+</content>
+<db:attribute name="invite_only">no</db:attribute>
+<db:attribute name="can_invite">no</db:attribute>
+<db:attribute name="participants">21</db:attribute>
+<db:attribute name="wishers">34</db:attribute>
+<db:attribute name="album">139623139</db:attribute>
+<db:location id="beijing">北京</db:location>
+<gd:when endTime="2014-10-02T23:30:00+08:00" startTime="2014-10-02T21:00:00+08:00"/>
+<gd:where valueString="北京 东城区 愚公移山（北京市东城区张自忠路3-2号段祺瑞执政府旧址大门西侧）"/>
+<georss:point>39.933762 116.416153</georss:point>
+</entry>
+<openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+<openSearch:startIndex>1</openSearch:startIndex>
+<openSearch:totalResults>351</openSearch:totalResults>
+</feed>
